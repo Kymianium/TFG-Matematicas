@@ -45,7 +45,7 @@ Nada más comenzar, se deben introducir tres valores:
 - Un número de retos
 - El número de retos a realizar por estudiante.
 
-  Nótese que, si el tercer número es mayor que el segundo, [se repetirán algunos de los retos.](https://es.wikipedia.org/wiki/Principio_del_palomar})
+  Nótese que, si el tercer número es mayor que el segundo, [se repetirán algunos de los retos.](https://es.wikipedia.org/wiki/Principio_del_palomar)
 
 Estos tres valores, en la mayoría de casos de uso, serán ignorados. Al usuario, una vez introducidos, se le presentan tres opciones.
 
