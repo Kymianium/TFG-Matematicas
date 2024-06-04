@@ -26,6 +26,12 @@ Posteriormente, usando ```pip``` se instalarán las librerías necesarias:
 pip install -r requirements.txt
 ```
 
+Para utilizar el entorno virtual, se usa el comando
+
+```bash
+source .venv/bin/activate
+```
+
 ## Ejecutar el software
 
 Ahora, una vez dentro del entorno virtual, basta con ejecutar
